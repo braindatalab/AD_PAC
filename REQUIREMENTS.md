@@ -319,7 +319,7 @@ Solution:
 
 | Software | Minimum Version | Recommended | Tested With |
 |----------|----------------|-------------|-------------|
-| MATLAB | R2018b | R2020a+ | R2020b, R2021a, R2023a |
+| MATLAB | R2018b | R2020a+ | R2020b, R2021a, R2022b |
 | FieldTrip | 20200101 | Latest | 20240110 |
 | Brainstorm | 3.200101 | Latest | 3.230101 |
 | FreeSurfer | 6.0 | 7.0+ | 7.1, 7.2 |
