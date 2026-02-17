@@ -27,19 +27,7 @@ If you use this code or methodology in your research, please cite our preprint:
 
 The PAC estimation code is based on the method developed by:
 
-Pellegrini, F., Delgado Saa, J., & Haufe, S. (2023). Identifying good practices for detecting inter-frequency coupling in resting-state EEG: A simulation study. *NeuroImage*, 277, 120233.
-
-```bibtex
-@article{pellegrini2023identifying,
-  title={Identifying good practices for detecting inter-frequency coupling in resting-state EEG: A simulation study},
-  author={Pellegrini, Franziska and Delgado Saa, Josefina and Haufe, Stefan},
-  journal={NeuroImage},
-  volume={277},
-  pages={120233},
-  year={2023},
-  publisher={Elsevier}
-}
-```
+> Pellegrini, F., Nguyen, T.D., Herrera,T., Nikulin, V., Nolte, G., & Haufe, S. (2023). Distinguishing between- from within-site phase-amplitude coupling using antisymmetrized bispectra. bioRxiv 2023.10.26.564193. https://doi.org/10.1101/2023.10.26.564193
 
 **Code Repository**: [https://github.com/fpellegrini/PAC](https://github.com/fpellegrini/PAC)
 
