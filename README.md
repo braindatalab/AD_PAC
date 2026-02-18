@@ -183,7 +183,7 @@ Phase-amplitude coupling estimation:
 - Computes coupling between hippocampal theta/alpha phase (4-12 Hz)
 - And cortical low-gamma amplitude (30-55 Hz)
 - Analyzes left/right hippocampus to ipsilateral/contralateral cortex
-- Uses bispectral analysis methods
+- Uses bispectral analysis methods (Antisymmetrized bicoherence)
 - Results saved per subject for statistical analysis
 
 ### Statistical Analysis
